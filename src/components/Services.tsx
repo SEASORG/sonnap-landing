@@ -1,1 +1,86 @@
-Y29uc3Qgc2VydmljZXMgPSBbCiAgewogICAgdGl0bGU6ICdDdXN0b20gU29mdHdhcmUgRGV2ZWxvcG1lbnQnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdFbmQtdG8tZW5kIGRldmVsb3BtZW50IG9mIHRhaWxvcmVkIHNvZnR3YXJlIHNvbHV0aW9ucyDigJQgZnJvbSB3ZWIgYXBwcyB0byBlbnRlcnByaXNlIHBsYXRmb3JtcyDigJQgZGVzaWduZWQgdG8gc2NhbGUgd2l0aCB5b3VyIGJ1c2luZXNzLicsCiAgICBpY29uOiAoCiAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTYgaC02IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBzdHJva2VXaWR0aD17MS41fSBkPSJNMTAgMjBsNC0xNm00IDRsNCA0LTQgNE02IDE2bC00LTQgNC00IiAvPgogICAgICA8L3N2Zz4KICAgICksCiAgICBmZWF0dXJlczogWydGdWxsLXN0YWNrIHdlYiBhcHBsaWNhdGlvbnMnLCAnQVBJIGRldmVsb3BtZW50ICYgaW50ZWdyYXRpb24nLCAnRGF0YWJhc2UgZGVzaWduICYgb3B0aW1pemF0aW9uJywgJ0Nsb3VkLW5hdGl2ZSBhcmNoaXRlY3R1cmUnXSwKICB9LAogIHsKICAgIHRpdGxlOiAnQUkgQWdlbnQgSW50ZWdyYXRpb24nLAogICAgZGVzY3JpcHRpb246CiAgICAgICdEZXBsb3kgYXV0b25vbW91cyBBSSBhZ2VudHMgdGhhdCBhdXRvbWF0ZSB3b3JrZmxvd3MsIGFuYWx5emUgZGF0YSwgYW5kIGF1Z21lbnQgeW91ciB0ZWFtIOKAlCBidWlsdCBvbiBjdXR0aW5nLWVkZ2UgTExNIHRlY2hub2xvZ3kuJywKICAgIGljb246ICgKICAgICAgPHN2ZyBjbGFzc05hbWU9InctNiBoLTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgogICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIHN0cm9rZVdpZHRoPXsxLjV9IGQ9Ik05Ljc1IDE3TDkgMjBsLTEgMWg4bC0xLTEtLjc1LTNNMyAxM2gxOE01IDE3aDE0YTIgMiAwIDAwMi0yVjVhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjEwYTIgMiAwIDAwMiAyeiIgLz4KICAgICAgPC9zdmc+CiAgICApLAogICAgZmVhdHVyZXM6IFsnQ3VzdG9tIEFJIGFnZW50IGRldmVsb3BtZW50JywgJ1dvcmtmbG93IGF1dG9tYXRpb24nLCAnRGF0YSBhbmFseXNpcyAmIHJlcG9ydGluZycsICdMTE0gaW50ZWdyYXRpb24gJiBmaW5lLXR1bmluZyddLAogIH0sCiAgewogICAgdGl0bGU6ICdNb2Rlcm4gV2ViIEFwcGxpY2F0aW9ucycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0JlYXV0aWZ1bCwgcGVyZm9ybWFudCB3ZWIgZXhwZXJpZW5jZXMgYnVpbHQgd2l0aCBOZXh0LmpzLCBSZWFjdCwgYW5kIFRhaWx3aW5kIENTUyDigJQgb3B0aW1pemVkIGZvciBzcGVlZCwgU0VPLCBhbmQgdXNlciBleHBlcmllbmNlLicsCiAgICBpY29uOiAoCiAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTYgaC02IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBzdHJva2VXaWR0aD17MS41fSBkPSJNMTIgMThoLjAxTTcgMjFoMTBhMiAyIDAgMDAyLTJWNWEyIDIgMCAwMC0yLTJIN2EyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMDAyIDJ6IiAvPgogICAgICA8L3N2Zz4KICAgICksCiAgICBmZWF0dXJlczogWydSZXNwb25zaXZlIGRlc2lnbiAmIGRldmVsb3BtZW50JywgJ1Byb2dyZXNzaXZlIHdlYiBhcHBzJywgJ0UtY29tbWVyY2Ugc29sdXRpb25zJywgJ0Rhc2hib2FyZCAmIGFuYWx5dGljcyBwb3J0YWxzJ10sCiAgfSwKICB7CiAgICB0aXRsZTogJ0FQSSBEZXZlbG9wbWVudCAmIENvbnN1bHRpbmcnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdEZXNpZ24gYW5kIGJ1aWxkIHJvYnVzdCwgc2VjdXJlIEFQSXMgdGhhdCBjb25uZWN0IHlvdXIgc3lzdGVtcy4gU3RyYXRlZ2ljIGNvbnN1bHRpbmcgdG8gbW9kZXJuaXplIHlvdXIgdGVjaG5vbG9neSBzdGFjay4nLAogICAgaWNvbjogKAogICAgICA8c3ZnIGNsYXNzTmFtZT0idy02IGgtNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgICAgICAgPHBhdGggc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlV2lkdGg9ezEuNX0gZD0iTTggOWwzIDMtMyAzbTUgMGgzTTUgMjBoMTRhMiAyIDAgMDAyLTJWNmEyIDIgMCAwMC0yLTJINWEyIDIgMCAwMC0yIDJ2MTJhMiAyIDAgMDAyIDJ6IiAvPgogICAgICA8L3N2Zz4KICAgICksCiAgICBmZWF0dXJlczogWydSRVNUICYgR3JhcGhRTCBBUEkgZGVzaWduJywgJ01pY3Jvc2VydmljZXMgYXJjaGl0ZWN0dXJlJywgJ0FQSSBzZWN1cml0eSAmIHJhdGUgbGltaXRpbmcnLCAnVGVjaG5pY2FsIGFyY2hpdGVjdHVyZSBjb25zdWx0aW5nJ10sCiAgfSwKXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU2VydmljZXMoKSB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJzZXJ2aWNlcyIgY2xhc3NOYW1lPSJweS0yMCBtZDpweS0yOCBiZy1ncmF5LTUwIj4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTd4bCBteC1hdXRvIHB4LTQgc206cHgtNiBsZzpweC04Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgbWItMTYiPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0ic2VjdGlvbi1oZWFkaW5nIj5XaGF0IFdlIEJ1aWxkPC9oMj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNCBzZWN0aW9uLXN1YmhlYWRpbmciPgogICAgICAgICAgICBGcm9tIGNvbmNlcHQgdG8gZGVwbG95bWVudCDigJQgb3VyIGFnZW50LXBvd2VyZWQgdGVhbSBkZWxpdmVycyBwcm9kdWN0aW9uLXJlYWR5IHNvZnR3YXJlLgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBtZDpncmlkLWNvbHMtMiBnYXAtOCI+CiAgICAgICAgICB7c2VydmljZXMubWFwKChzZXJ2aWNlKSA9PiAoCiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICBrZXk9e3NlcnZpY2UudGl0bGV9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJiZy13aGl0ZSByb3VuZGVkLTJ4bCBwLTggYm9yZGVyIGJvcmRlci1ncmF5LTEwMCBob3Zlcjpib3JkZXItcHJpbWFyeS0xMDAgaG92ZXI6c2hhZG93LWxnIHRyYW5zaXRpb24tYWxsIGdyb3VwIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMTIgaC0xMiBiZy1wcmltYXJ5LTUwIHRleHQtcHJpbWFyeS02MDAgcm91bmRlZC14bCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtYi01IGdyb3VwLWhvdmVyOmJnLXByaW1hcnktMTAwIHRyYW5zaXRpb24tY29sb3JzIj4KICAgICAgICAgICAgICAgIHtzZXJ2aWNlLmljb259CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIHRleHQtZ3JheS05MDAgbWItMyI+e3NlcnZpY2UudGl0bGV9PC9oMz4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZ3JheS02MDAgbWItNSBsZWFkaW5nLXJlbGF4ZWQiPntzZXJ2aWNlLmRlc2NyaXB0aW9ufTwvcD4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAge3NlcnZpY2UuZmVhdHVyZXMubWFwKChmZWF0dXJlKSA9PiAoCiAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2ZlYXR1cmV9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgdGV4dC1zbSB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LWFjY2VudC01MDAgbXItMiBmbGV4LXNocmluay0wIiBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdCb3g9IjAgMCAyMCAyMCI+CiAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsUnVsZT0iZXZlbm9kZCIgZD0iTTE2LjcwNyA1LjI5M2ExIDEgMCAwMTAgMS40MTRsLTggOGExIDEgMCAwMS0xLjQxNCAwbC00LTRhMSAxIDAgMDExLjQxNC0xLjQxNEw4IDEyLjU4Nmw3LjI5My03LjI5M2ExIDEgMCAwMTEuNDE0IDB6IiBjbGlwUnVsZT0iZXZlbm9kZCIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgICAgICB7ZmVhdHVyZX0KICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICkKfQo=
+const services = [
+  {
+    title: 'Custom Software Development',
+    description:
+      'End-to-end development of tailored software solutions — from web apps to enterprise platforms — designed to scale with your business.',
+    icon: (
+      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+      </svg>
+    ),
+    features: ['Full-stack web applications', 'API development & integration', 'Database design & optimization', 'Cloud-native architecture'],
+  },
+  {
+    title: 'AI Agent Integration',
+    description:
+      'Deploy autonomous AI agents that automate workflows, analyze data, and augment your team — built on cutting-edge LLM technology.',
+    icon: (
+      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+      </svg>
+    ),
+    features: ['Custom AI agent development', 'Workflow automation', 'Data analysis & reporting', 'LLM integration & fine-tuning'],
+  },
+  {
+    title: 'Modern Web Applications',
+    description:
+      'Beautiful, performant web experiences built with Next.js, React, and Tailwind CSS — optimized for speed, SEO, and user experience.',
+    icon: (
+      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 18h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
+      </svg>
+    ),
+    features: ['Responsive design & development', 'Progressive web apps', 'E-commerce solutions', 'Dashboard & analytics portals'],
+  },
+  {
+    title: 'API Development & Consulting',
+    description:
+      'Design and build robust, secure APIs that connect your systems. Strategic consulting to modernize your technology stack.',
+    icon: (
+      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+      </svg>
+    ),
+    features: ['REST & GraphQL API design', 'Microservices architecture', 'API security & rate limiting', 'Technical architecture consulting'],
+  },
+]
+
+export default function Services() {
+  return (
+    <section id="services" className="py-20 md:py-28 bg-gray-50">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="text-center mb-16">
+          <h2 className="section-heading">What We Build</h2>
+          <p className="mt-4 section-subheading">
+            From concept to deployment — our agent-powered team delivers production-ready software.
+          </p>
+        </div>
+
+        <div className="grid md:grid-cols-2 gap-8">
+          {services.map((service) => (
+            <div
+              key={service.title}
+              className="bg-white rounded-2xl p-8 border border-gray-100 hover:border-primary-100 hover:shadow-lg transition-all group"
+            >
+              <div className="w-12 h-12 bg-primary-50 text-primary-600 rounded-xl flex items-center justify-center mb-5 group-hover:bg-primary-100 transition-colors">
+                {service.icon}
+              </div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-3">{service.title}</h3>
+              <p className="text-gray-600 mb-5 leading-relaxed">{service.description}</p>
+              <ul className="space-y-2">
+                {service.features.map((feature) => (
+                  <li key={feature} className="flex items-center text-sm text-gray-500">
+                    <svg className="w-4 h-4 text-accent-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                    {feature}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}

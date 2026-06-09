@@ -1,1 +1,27 @@
-aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gJ25leHQnCmltcG9ydCAnLi9nbG9iYWxzLmNzcycKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICdTb25uYVAg4oCUIEFnZW50aWMgU29mdHdhcmUgQ29tcGFueScsCiAgZGVzY3JpcHRpb246CiAgICAnU29ubmFQIGJ1aWxkcyBpbnRlbGxpZ2VudCBzb2Z0d2FyZSBzb2x1dGlvbnMgcG93ZXJlZCBieSBBSSBhZ2VudHMuIEN1c3RvbSBkZXZlbG9wbWVudCwgQUkgaW50ZWdyYXRpb24sIGFuZCBtb2Rlcm4gd2ViIGFwcGxpY2F0aW9ucy4nLAogIGtleXdvcmRzOiBbJ3NvZnR3YXJlIGRldmVsb3BtZW50JywgJ0FJIGFnZW50cycsICd3ZWIgZGV2ZWxvcG1lbnQnLCAnQVBJIGRldmVsb3BtZW50JywgJ1Nvbm5hUCddLAogIG9wZW5HcmFwaDogewogICAgdGl0bGU6ICdTb25uYVAg4oCUIEFnZW50aWMgU29mdHdhcmUgQ29tcGFueScsCiAgICBkZXNjcmlwdGlvbjogJ0ludGVsbGlnZW50IHNvZnR3YXJlIHNvbHV0aW9ucyBwb3dlcmVkIGJ5IEFJIGFnZW50cy4nLAogICAgdHlwZTogJ3dlYnNpdGUnLAogICAgbG9jYWxlOiAnZW5fVVMnLAogIH0sCn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoewogIGNoaWxkcmVuLAp9OiB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZQp9KSB7CiAgcmV0dXJuICgKICAgIDxodG1sIGxhbmc9ImVuIiBjbGFzc05hbWU9InNjcm9sbC1zbW9vdGgiPgogICAgICA8Ym9keT57Y2hpbGRyZW59PC9ib2R5PgogICAgPC9odG1sPgogICkKfQo=
+import type { Metadata } from 'next'
+import './globals.css'
+
+export const metadata: Metadata = {
+  title: 'SonnaP — Agentic Software Company',
+  description:
+    'SonnaP builds intelligent software solutions powered by AI agents. Custom development, AI integration, and modern web applications.',
+  keywords: ['software development', 'AI agents', 'web development', 'API development', 'SonnaP'],
+  openGraph: {
+    title: 'SonnaP — Agentic Software Company',
+    description: 'Intelligent software solutions powered by AI agents.',
+    type: 'website',
+    locale: 'en_US',
+  },
+}
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
+  return (
+    <html lang="en" className="scroll-smooth">
+      <body>{children}</body>
+    </html>
+  )
+}

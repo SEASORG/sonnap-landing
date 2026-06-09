@@ -1,1 +1,65 @@
-ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQWJvdXQoKSB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJhYm91dCIgY2xhc3NOYW1lPSJweS0yMCBtZDpweS0yOCBiZy1ncmF5LTUwIj4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTd4bCBteC1hdXRvIHB4LTQgc206cHgtNiBsZzpweC04Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBtZDpncmlkLWNvbHMtMiBnYXAtMTIgaXRlbXMtY2VudGVyIj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InNlY3Rpb24taGVhZGluZyBtYi02Ij4KICAgICAgICAgICAgICBCdWlsdCBEaWZmZXJlbnQueycgJ30KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImdyYWRpZW50LXRleHQiPkJ1aWx0IGJ5IEFnZW50cy48L3NwYW4+CiAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQgdGV4dC1ncmF5LTYwMCBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgU29ubmFQIGlzIG5vdCB5b3VyIHR5cGljYWwgc29mdHdhcmUgY29tcGFueS4gV2UgYXJlIGFuIGFnZW50aWMgc29mdHdhcmUKICAgICAgICAgICAgICAgIG9yZ2FuaXphdGlvbiDigJQgYSB0ZWFtIG9mIHNwZWNpYWxpemVkIEFJIGFnZW50cyB3b3JraW5nIGluIGNvbmNlcnQgd2l0aAogICAgICAgICAgICAgICAgaHVtYW4gZXhwZXJ0aXNlIHRvIGRlbGl2ZXIgZXhjZXB0aW9uYWwgc29mdHdhcmUuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgT3VyIGFnZW50cyBoYW5kbGUgZXZlcnl0aGluZyBmcm9tIGFyY2hpdGVjdHVyZSBhbmQgZGV2ZWxvcG1lbnQgdG8gdGVzdGluZywKICAgICAgICAgICAgICAgIGRlcGxveW1lbnQsIGFuZCBkb2N1bWVudGF0aW9uLiBUaGlzIGFsbG93cyB1cyB0byBtb3ZlIGZhc3RlciwgaXRlcmF0ZSBtb3JlLAogICAgICAgICAgICAgICAgYW5kIGRlbGl2ZXIgaGlnaGVyIHF1YWxpdHkgcmVzdWx0cyB0aGFuIHRyYWRpdGlvbmFsIHRlYW1zLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIEZvdW5kZWQgd2l0aCBhIHZpc2lvbiB0byByZWRlZmluZSBob3cgc29mdHdhcmUgaXMgYnVpbHQsIFNvbm5hUCBjb21iaW5lcwogICAgICAgICAgICAgICAgdGhlIGJlc3Qgb2YgaHVtYW4gY3JlYXRpdml0eSB3aXRoIHRoZSBzcGVlZCBhbmQgcHJlY2lzaW9uIG9mIEFJLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtOCBncmlkIGdyaWQtY29scy0yIGdhcC02Ij4KICAgICAgICAgICAgICB7WwogICAgICAgICAgICAgICAgeyB2YWx1ZTogJzI0LzcnLCBsYWJlbDogJ0RldmVsb3BtZW50JyB9LAogICAgICAgICAgICAgICAgeyB2YWx1ZTogJzEwKycsIGxhYmVsOiAnU3BlY2lhbGl6ZWQgQWdlbnRzJyB9LAogICAgICAgICAgICAgICAgeyB2YWx1ZTogJ1plcm8nLCBsYWJlbDogJ0xlZ2FjeSBPdmVyaGVhZCcgfSwKICAgICAgICAgICAgICAgIHsgdmFsdWU6ICcxMDAlJywgbGFiZWw6ICdRdWFsaXR5IEZvY3VzZWQnIH0sCiAgICAgICAgICAgICAgXS5tYXAoKHN0YXQpID0+ICgKICAgICAgICAgICAgICAgIDxkaXYga2V5PXtzdGF0LmxhYmVsfT4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCB0ZXh0LWdyYXktOTAwIj57c3RhdC52YWx1ZX08L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtc20gdGV4dC1ncmF5LTUwMCI+e3N0YXQubGFiZWx9PC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXNwZWN0LXNxdWFyZSByb3VuZGVkLTN4bCBiZy1ncmFkaWVudC10by1iciBmcm9tLXByaW1hcnktMTAwIHZpYS1hY2NlbnQtNTAgdG8tcHJpbWFyeS01MCBwLTggZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0yMCBoLTIwIGJnLWdyYWRpZW50LXRvLWJyIGZyb20tcHJpbWFyeS02MDAgdG8tYWNjZW50LTUwMCByb3VuZGVkLTJ4bCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBteC1hdXRvIG1iLTYgc2hhZG93LXhsIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlIGZvbnQtYm9sZCB0ZXh0LTN4bCI+Uzwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIHRleHQtZ3JheS05MDAgbWItMiI+U29ubmFQPC9oMz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTUwMCI+QWdlbnRpYyBTb2Z0d2FyZSBDb21wYW55PC9wPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYgZmxleCBqdXN0aWZ5LWNlbnRlciBnYXAtMyI+CiAgICAgICAgICAgICAgICAgIHtbJ0FJJywgJ0RldicsICdRQScsICdPcHMnXS5tYXAoKHRhZykgPT4gKAogICAgICAgICAgICAgICAgICAgIDxzcGFuIGtleT17dGFnfSBjbGFzc05hbWU9InB4LTMgcHktMSBiZy13aGl0ZS84MCB0ZXh0LWdyYXktNzAwIHRleHQteHMgZm9udC1tZWRpdW0gcm91bmRlZC1mdWxsIj4KICAgICAgICAgICAgICAgICAgICAgIHt0YWd9CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0K
+export default function About() {
+  return (
+    <section id="about" className="py-20 md:py-28 bg-gray-50">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="grid md:grid-cols-2 gap-12 items-center">
+          <div>
+            <h2 className="section-heading mb-6">
+              Built Different.{' '}
+              <span className="gradient-text">Built by Agents.</span>
+            </h2>
+            <div className="space-y-4 text-gray-600 leading-relaxed">
+              <p>
+                SonnaP is not your typical software company. We are an agentic software
+                organization — a team of specialized AI agents working in concert with
+                human expertise to deliver exceptional software.
+              </p>
+              <p>
+                Our agents handle everything from architecture and development to testing,
+                deployment, and documentation. This allows us to move faster, iterate more,
+                and deliver higher quality results than traditional teams.
+              </p>
+              <p>
+                Founded with a vision to redefine how software is built, SonnaP combines
+                the best of human creativity with the speed and precision of AI.
+              </p>
+            </div>
+
+            <div className="mt-8 grid grid-cols-2 gap-6">
+              {[
+                { value: '24/7', label: 'Development' },
+                { value: '10+', label: 'Specialized Agents' },
+                { value: 'Zero', label: 'Legacy Overhead' },
+                { value: '100%', label: 'Quality Focused' },
+              ].map((stat) => (
+                <div key={stat.label}>
+                  <div className="text-2xl font-bold text-gray-900">{stat.value}</div>
+                  <div className="text-sm text-gray-500">{stat.label}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="relative">
+            <div className="aspect-square rounded-3xl bg-gradient-to-br from-primary-100 via-accent-50 to-primary-50 p-8 flex items-center justify-center">
+              <div className="text-center">
+                <div className="w-20 h-20 bg-gradient-to-br from-primary-600 to-accent-500 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-xl">
+                  <span className="text-white font-bold text-3xl">S</span>
+                </div>
+                <h3 className="text-2xl font-bold text-gray-900 mb-2">SonnaP</h3>
+                <p className="text-gray-500">Agentic Software Company</p>
+                <div className="mt-6 flex justify-center gap-3">
+                  {['AI', 'Dev', 'QA', 'Ops'].map((tag) => (
+                    <span key={tag} className="px-3 py-1 bg-white/80 text-gray-700 text-xs font-medium rounded-full">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}
